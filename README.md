@@ -4,9 +4,8 @@ nmap is a common port scanning utility that has been made available to use withi
 
 ## Description
 
-nmap is often used by pen testers to check what ports are open, there are multiple scripts available within nmap that allow for even more detailed scanning.
+nmap is often used by pen testers to check what ports are open, there are multiple scripts available within nmap that allow for even more detailed scanning. My goal is to extend what exists within the tool and make it easier to use and more dynamic with integration into different logging tools.
 
-Demo: https://www.youtube.com/watch?v=imYT87Sajhc
 
 ## Table of Contents
 
@@ -28,7 +27,7 @@ Note: Use sudo where necessary
 
 1. Clone the repository
 
-   git clone https://github.com/ac0mm/greta.git
+   git clone https://github.com/iowa-david/nmap_utility.git
 
 2. Change into the nmap-utility folder
 
@@ -63,3 +62,5 @@ There are many common tools that are used for penetration testing and viewing th
 [invoking-nmap-nse-from-python](https://stackoverflow.com/questions/4273489/invoking-nmap-nse-from-python)
 
 https://www.redhat.com/sysadmin/nmap-scripting-engine
+
+https://danielmiessler.com/p/things-you-didnt-know-you-could-do-with-nmap/
