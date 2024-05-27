@@ -42,7 +42,7 @@ Note: Use sudo where necessary
 ## Three Main Points
   - Provide a script to easily identify open ports
   - Provides a wrapper to nmap functionality
-  - Offer encrypted and unencrypted means
+  - Python has many common tools available to access through apis and abstractions. I have previously used scapy and sent data to a logging tool and wanted to try another common tool and see how it could be extended with nmap.
 
 ## Why I am Interested
 
